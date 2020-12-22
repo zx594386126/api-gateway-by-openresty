@@ -21,5 +21,7 @@
 * 支持将DB数据直接生成接口开放出去
 
 ## 作者
+微信公众号： Architect_zx
+
 ![image](https://github.com/zx594386126/api-gateway-by-openresty/blob/main/Dev-QR.jpg)
 
